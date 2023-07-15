@@ -1,4 +1,4 @@
-# tictactoe
+# Tic Tac Toe
 
 This Flutter Tic Tac Toe App is a simple yet engaging implementation of the classic game, built using Dart language. With its intuitive user interface and smooth gameplay, it offers an enjoyable experience for users of all ages.
 
